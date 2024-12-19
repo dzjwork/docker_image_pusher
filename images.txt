@@ -1,1 +1,1 @@
-arm64v8/mongo:latest
+arm64v6/mongo:latest
