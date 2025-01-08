@@ -1,1 +1,1 @@
-ubuntu
+--platform=arm64 python
